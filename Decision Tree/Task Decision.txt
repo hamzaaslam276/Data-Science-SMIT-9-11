@@ -1,0 +1,15 @@
+The question for the Wine dataset can be framed as follows:
+
+Question:
+
+How can we classify wines into one of three classes (Class 0, Class 1, or Class 2) based on their chemical properties using a Decision Tree algorithm?
+
+Objective:
+
+Build a machine learning model using the Wine dataset.
+
+Train the model on the chemical features of the wine.
+
+Evaluate the model's accuracy in predicting the correct wine class.
+
+Dataset Link: https://www.kaggle.com/datasets/aarontanjaya/uci-wine-dataset
